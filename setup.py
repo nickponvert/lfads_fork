@@ -18,5 +18,5 @@ setuptools.setup(
         "License :: Apache-2.0",
         "Operating System :: OS Independent",
     ],
-    python_requires='==2.7.18',
+    python_requires='<3',
 )
