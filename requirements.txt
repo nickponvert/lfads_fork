@@ -1,0 +1,5 @@
+tensorflow==1.5.1
+h5py
+numpy
+matplotlib
+scipy

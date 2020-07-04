@@ -1,0 +1,6 @@
+README.md
+setup.py
+lfads.egg-info/PKG-INFO
+lfads.egg-info/SOURCES.txt
+lfads.egg-info/dependency_links.txt
+lfads.egg-info/top_level.txt
